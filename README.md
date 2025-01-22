@@ -4,7 +4,7 @@
 <br>
 
 <br>
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png(https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Tools:
 C#
