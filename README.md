@@ -8,11 +8,17 @@
 
 #### Tools:
 C#
+<br>
 Unity
+<br>
 Blender
+<br>
 Photoshop
+<br>
 Ilustrator
+<br>
 Premier Pro
+<br>
 Maya
 
 <br>
