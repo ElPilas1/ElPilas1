@@ -1,5 +1,5 @@
 
-<h4 align="center">-Diego Yanes López-</h4>
+<h1 align="center">-Diego Yanes López-</h1>
 
 <br>
 
