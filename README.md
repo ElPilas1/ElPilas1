@@ -4,10 +4,11 @@
 <br>
 
 <br>
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"(https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img width="1px" height="1px" src="https://1000logos.net/wp-content/uploads/2021/10/Unity-logo.png"(https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Tools:
 C#
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png">
 <br>
 Unity
 <br>
